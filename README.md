@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/powershell.svg" height=30 alt="Powershell" title="Powershell" />
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/npm.svg" height=30 alt="NPM" title="NPM" />
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/lenovo.svg" height=30 alt="Lenovo ThinkPad" title="Lenovo ThinkPad" />
+  <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/adobephotoshop.svg" height=30 alt="Adobe Photoshop" title="Adobe Photoshop" />
 </div>
 
 <!-- Icons from:  https://simpleicons.org/ -->
