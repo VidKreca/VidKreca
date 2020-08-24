@@ -26,3 +26,5 @@
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/npm.svg" height=30 alt="NPM" title="NPM" />
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/lenovo.svg" height=30 alt="Lenovo ThinkPad" title="Lenovo ThinkPad" />
 </div>
+
+<!-- Icons from:  https://simpleicons.org/ -->
