@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/java.svg" height=30 alt="Java" title="Java" />
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/php.svg" height=30 alt="PHP" title="PHP" />
   <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/mysql.svg" height=30 alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/VidKreca/VidKreca/master/icons/flutter.svg" height=30 alt="Flutter" title="Flutter" />
 </div>
 
 
